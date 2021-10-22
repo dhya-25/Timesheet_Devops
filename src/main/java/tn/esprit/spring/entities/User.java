@@ -45,7 +45,7 @@ public class User implements Serializable {
 		this.role = role;
 	}
 
-
+//user
 	public User(Long id, String firstName, String lastName, Date dateNaissance, Role role) {
 		super();
 		this.id = id;
