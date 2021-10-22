@@ -46,6 +46,7 @@ public class User implements Serializable {
 	}
 
 //user
+	//git test
 	public User(Long id, String firstName, String lastName, Date dateNaissance, Role role) {
 		super();
 		this.id = id;
